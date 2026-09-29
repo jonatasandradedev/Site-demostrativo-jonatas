@@ -59,3 +59,25 @@ cd SEU-REPOSITORIO
 Confira abaixo uma prévia do projeto em funcionamento:
 
 ![Preview do projeto](./preview.png)
+
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em HTML5 e CSS3, trabalhando com estruturação de páginas, organização de conteúdo e criação de interfaces modernas.
+
+Também pratiquei conceitos de CSS como variáveis, CSS Grid, gradientes, transparência, `backdrop-filter`, efeitos de `hover` e animações com `@keyframes`.
+
+No JavaScript, pratiquei a manipulação de elementos HTML, captura de valores de campos de formulário, prevenção do comportamento padrão do formulário e integração com o WhatsApp.
+
+O projeto também contribuiu para o desenvolvimento da minha organização de código e compreensão de como HTML, CSS e JavaScript trabalham juntos para criar uma página web interativa.
+
+
+
+## 👨‍💻 Autor
+
+**Jonatas Andrade**
+
+Desenvolvedor Front-end Júnior em formação, apaixonado por tecnologia e desenvolvimento web.
+
+* GitHub: [@jonatasandradedev](https://github.com/jonatasandradedev)
+* LinkedIn: [Jonatas Andrade](https://www.linkedin.com/in/jonatasandradedev)
