@@ -43,12 +43,6 @@ https://github.com/jonatasandradedev/Site-demostrativo-jonatas/tree/master?utm_s
 
 2. Acesse a pasta do projeto:
 
-
-## 🖥️ Preview
-
-Confira abaixo uma prévia do projeto em funcionamento:
-
-![Preview do projeto](./preview.png)
 ```bash
 cd SEU-REPOSITORIO
 ```
@@ -59,3 +53,9 @@ cd SEU-REPOSITORIO
 
 
 
+
+## 🖥️ Preview
+
+Confira abaixo uma prévia do projeto em funcionamento:
+
+![Preview do projeto](./preview.png)
